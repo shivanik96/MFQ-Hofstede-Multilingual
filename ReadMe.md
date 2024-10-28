@@ -1,6 +1,6 @@
 # Moral Foundation Questionnaire and Hofstede's Values Survey Module
 
-The Moral Foundations Questionnaire (MFQ) is available in multiple languages; however, its latest version, MFQ-2, is currently limited to just four: English, Spanish, Chinese, and Arabic. This limitation poses challenges for research in other languages, highlighting the need to translate MFQ-2 into additional languages as required for diverse studies. Similarly, when using Hofstede’s questionnaire to gather cultural insights, translations would also be necessary for any languages not yet covered.
+The [Moral Foundations Questionnaire (MFQ)](https://moralfoundations.org/questionnaires/) is available in multiple languages; however, its latest version, MFQ-2, is currently limited to just four: English, Spanish, Chinese, and Arabic. This limitation poses challenges for research in other languages, highlighting the need to translate MFQ-2 into additional languages as required for diverse studies. Similarly, when using [Hofstede’s questionnaire](https://geerthofstede.com/research-and-vsm/vsm-2013/) to gather cultural insights, translations would also be necessary for any languages not yet covered.
 
 This repository aims to compile all available language versions of these questionnaires and to gather translations for those still missing.
 
