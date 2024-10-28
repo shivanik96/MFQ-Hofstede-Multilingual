@@ -1,8 +1,8 @@
 # Moral Foundation Questionnaire and Hofstede's Values Survey Module
 
-While the Moral Foundation Questionnaire, or MFQ, is present for a number of languages, its latest version, MFQ-2, is present only in four languages -- English, Spanish, Chinese, and Arabic. This makes conducting research in languages other than these difficult. Consequently, there is a need to translate the MFQ-2 in languages required for study. Similarly, if a study requires us to collect cultural information using the Hofstede's questionnaire for the languages it is not present in, we would need to translate that too.
+The Moral Foundations Questionnaire (MFQ) is available in multiple languages; however, its latest version, MFQ-2, is currently limited to just four: English, Spanish, Chinese, and Arabic. This limitation poses challenges for research in other languages, highlighting the need to translate MFQ-2 into additional languages as required for diverse studies. Similarly, when using Hofstede’s questionnaire to gather cultural insights, translations would also be necessary for any languages not yet covered.
 
-In this repository, we aim to create a collection of these questionnaires for all the languages they are present in. Further, we aim to collect the translations for the missing languages.
+This repository aims to compile all available language versions of these questionnaires and to gather translations for those still missing.
 
 ## Available languages
 | **Language**      | **MFQ2** | **MFQ** | **Hofstede Cultural Questionnaire (VSM 2013)** | **# prolific participants** |
@@ -58,3 +58,6 @@ In this repository, we aim to create a collection of these questionnaires for al
 | Urdu              |          |    Y    |                                                |             340             |
 | Vietnamese        |          |    Y    |                                                |                             |
 | Yoruba            |          |    Y    |                                                |                             |
+
+## Translating the Questionnaires
+The authors of the MFQ have provided a set of [guidelines](https://ymblog.jonathanhaidt.org/2010/01/how-to-translate-the-mfq/comment-page-1/) for translating the MFQ into different languages. Following these, many researchers have translated the original MFQ into [various languages](https://docs.google.com/spreadsheets/u/0/d/1UflzHkc8g5ohW_MIKGzbrGH5bIPiJoWcSvfuq7OsoYc/pub). Following similar approach, we aim to translate the MFQ-2. We compile our translations [here](https://docs.google.com/spreadsheets/d/1_F_y3WZLXLkDEsOGdlaiZimMGWmZ58z1/edit?usp=sharing&ouid=114913629946407078107&rtpof=true&sd=true).
