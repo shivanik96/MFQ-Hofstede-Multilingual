@@ -1,6 +1,6 @@
 # Moral Foundation Questionnaire and Hofstede's Values Survey Module
 
-The [Moral Foundations Questionnaire (MFQ)](https://moralfoundations.org/questionnaires/) is available in multiple languages; however, its latest version, MFQ-2, is currently limited to just four: English, Spanish, Chinese, and Arabic. This limitation poses challenges for research in other languages, highlighting the need to translate MFQ-2 into additional languages as required for diverse studies. Similarly, when using [Hofstede’s questionnaire](https://geerthofstede.com/research-and-vsm/vsm-2013/) to gather cultural insights, translations would also be necessary for any languages not yet covered.
+The [Moral Foundations Questionnaire (MFQ)](https://moralfoundations.org/questionnaires/) is available in multiple languages; however, its latest version, MFQ-2, is currently limited to just eight: English, Spanish, Chinese, Russian, French, Farsi, Japanese, and Arabic. This limitation poses challenges for research in other languages, highlighting the need to translate MFQ-2 into additional languages as required for diverse studies. Similarly, when using [Hofstede’s questionnaire](https://geerthofstede.com/research-and-vsm/vsm-2013/) to gather cultural insights, translations would also be necessary for any languages not yet covered.
 
 This repository aims to compile all available language versions of these questionnaires and to gather translations for those still missing.
 
@@ -18,9 +18,10 @@ This repository aims to compile all available language versions of these questio
 | Dari              |          |    Y    |                                                |                             |
 | Dutch             |          |    Y    |                                                |                             |
 | English           |     Y    |         |                        Y                       |            100000           |
+| Farsi             |     Y    |         |                                                |                             |
 | Filipino          |          |         |                                                |             567             |
 | Finnish           |          |    Y    |                                                |                             |
-| French            |          |    Y    |                                                |                             |
+| French            |     Y    |    Y    |                                                |                             |
 | German            |          |    Y    |                        Y                       |             1840            |
 | Greek             |          |    Y    |                        Y                       |                             |
 | Hebrew            |          |    Y    |                                                |                             |
@@ -28,7 +29,7 @@ This repository aims to compile all available language versions of these questio
 | HongKong Chinese  |          |    Y    |                        Y                       |              XX             |
 | Indonesian        |          |    Y    |                                                |                             |
 | Italian           |          |    Y    |                        Y                       |                             |
-| Japanese          |          |    Y    |                        Y                       |                             |
+| Japanese          |     Y    |    Y    |                        Y                       |                             |
 | Kiswahili         |          |    Y    |                                                |                             |
 | Korean            |          |    Y    |                                                |                             |
 | Latvian           |          |         |                        Y                       |                             |
@@ -42,7 +43,7 @@ This repository aims to compile all available language versions of these questio
 | Portugese         |          |    Y    |                        Y                       |                             |
 | Portugese Brazil  |          |    Y    |                        Y                       |                             |
 | Romanian          |          |    Y    |                                                |                             |
-| Russian           |          |    Y    |                        Y                       |                             |
+| Russian           |     Y    |    Y    |                        Y                       |                             |
 | Serbian           |          |    Y    |                                                |                             |
 | Simplied Chinese  |          |         |                        Y                       |              XX             |
 | Sinhala           |          |         |                        Y                       |                             |
